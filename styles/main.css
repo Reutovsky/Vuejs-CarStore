@@ -5,3 +5,11 @@
 .pointer {
     cursor: pointer;
 }
+
+.phone-block {
+    height: 30px;
+}
+
+.modal {
+    display: block;
+}
